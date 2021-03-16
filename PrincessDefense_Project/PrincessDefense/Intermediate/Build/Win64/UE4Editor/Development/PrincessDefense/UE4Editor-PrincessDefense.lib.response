@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PrincessDefense.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\PrincessDefenseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\UE4Editor\Development\PrincessDefense\PrincessDefense.cpp.obj"
+"C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\UE4Editor\Development\PrincessDefense\PrincessDefenseGameModeBase.cpp.obj"
+"C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\UE4Editor\Development\PrincessDefense\PrincessDefense.init.gen.cpp.obj"
+"C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\UE4Editor\Development\PrincessDefense\PrincessDefenseGameModeBase.gen.cpp.obj"
+"C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\UE4Editor\Development\PrincessDefense\Default.rc2.res"
+/OUT:"C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\UE4Editor\Development\PrincessDefense\UE4Editor-PrincessDefense.lib"
+/INCLUDE:IMPLEMENT_MODULE_PrincessDefense

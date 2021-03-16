@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PrincessDefense.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{17FAB4E8-2946-46E6-A18F-208DBCB43308}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PrincessDefense.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PrincessDefenseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E6D2ACD7-20F9-4590-A267-537516D01DB0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PrincessDefense">
+      <UniqueIdentifier>{4865A5E5-F222-4F85-9806-B6409028B892}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PrincessDefense\PrincessDefense.Build.cs">
+      <Filter>Source\PrincessDefense</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PrincessDefense\PrincessDefense.cpp">
+      <Filter>Source\PrincessDefense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrincessDefense\PrincessDefense.h">
+      <Filter>Source\PrincessDefense</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrincessDefense\PrincessDefenseGameModeBase.cpp">
+      <Filter>Source\PrincessDefense</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrincessDefense\PrincessDefenseGameModeBase.h">
+      <Filter>Source\PrincessDefense</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
