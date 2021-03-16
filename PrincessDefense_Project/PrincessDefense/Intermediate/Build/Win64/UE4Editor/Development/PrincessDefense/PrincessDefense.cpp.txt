@@ -1,2 +1,0 @@
-C:\Users\potet\OneDrive\Desktop\PrincessDefense\Intermediate\Build\Win64\UE4Editor\Development\PrincessDefense\Definitions.PrincessDefense.h
-C:\Users\potet\OneDrive\Desktop\PrincessDefense\Source\PrincessDefense\PrincessDefense.h
