@@ -73,8 +73,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-#LargeAsset_File_Data
-LargeAsset
+# AssetFile
+KiteDemo
+ProceduralNaturePack
+
 
 Binaries
 DerivedDataCache
